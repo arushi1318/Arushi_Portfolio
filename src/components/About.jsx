@@ -6,7 +6,6 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
-import githubProfile from "../assets/github dp.jpg";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -135,11 +134,6 @@ const About = () => {
       
       {/* Glassmorphism Card */}
       <div ref={containerRef} className="relative z-10 max-w-3xl w-full mx-auto glass-card rounded-3xl shadow-2xl px-8 py-12 flex flex-col items-center">
-        {/* Profile Image with Futuristic Border */}
-        <div className="relative mb-8">
-          <div className="absolute inset-0 rounded-full cyber-border" />
-          <img src={githubProfile} alt="Profile" className="w-40 h-40 rounded-full object-cover border-4 border-white relative z-10 profile-img-anim" />
-        </div>
         
         {/* Animated Headline */}
         <div ref={headingRef} className="text-center">
