@@ -94,11 +94,7 @@ Arushi_Portfolio/
 
 ---
 
-## 📚 Credits & Resources
-- 3D desktop + planet scenes (glTF + textures) under `public/desktop_pc` and `public/planet`.
-- Music sample `Tuyo_Narcos_Theme_Song-648780-mobiles24.mp3` ships in `public/`.
-- Icons from custom `src/assets` and auto-generated set in `src/constants/autoIcons.js`.
-- Inspired by Three.js Journey community and modern RLHF research decks.
+
 
 > 💡 Have an idea or found a bug? Open an issue or ping me via the contact form — let’s build something ambitious together.
 
