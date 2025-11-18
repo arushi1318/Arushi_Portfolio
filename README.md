@@ -1,6 +1,6 @@
 # Arushi Gupta – Portfolio
 
-_A cinematic fusion of RLHF experimentation, AI/ML storytelling, and interactive 3D canvases—built to feel like a conversation with the engineer behind the work._
+_Experience the next generation of portfolio presentation with our AI-powered 3D avatar system. This project combines cutting-edge technologies to create an immersive, interactive experience that brings your professional profile to life._
 
 
 
