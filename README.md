@@ -1,4 +1,4 @@
-# Arushi Gupta – Portfolio
+# Arushi Gupta – Portfolio 
 
 _A cinematic fusion of RLHF experimentation, AI/ML storytelling, and interactive 3D canvases—built to feel like a conversation with the engineer behind the work._
 
