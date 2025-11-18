@@ -2,7 +2,7 @@
 
 _A cinematic fusion of RLHF experimentation, AI/ML storytelling, and interactive 3D canvases—built to feel like a conversation with the engineer behind the work._
 
-![Portfolio Preview](public/smart-city-traveller.png)
+
 
 ---
 
