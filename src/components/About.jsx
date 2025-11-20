@@ -7,7 +7,7 @@ import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
 
-gsap.registerPlugin(ScrollTrigger);
+gsap.registerPlugin(ScrollTrigger); 
 
 // Typewriter effect for heading
 const useTypewriter = (text, speed = 60) => {
